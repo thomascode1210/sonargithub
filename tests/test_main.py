@@ -1,5 +1,5 @@
 import pytest
-from web-login-demo.main import app
+from web_login_demo.main import app
 
 @pytest.fixture
 def client():
